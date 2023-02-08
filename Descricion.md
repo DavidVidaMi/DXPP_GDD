@@ -7,7 +7,7 @@ o cal, corrupto polo poder da inmortalidade perdeu de vista o valor das vidas hu
 é escollido pola caixa de xadrez da familia, terás que cargar con esta responsabilidade para ascender na con cada duelo de
 xadrez que gañas hasta poder plantarlle cara ao rei.
 
-###2.Bucle de xogo
+### 2.Bucle de xogo
 
 Comenzarás na tua casa coas tuas pezas iniciais, nesta zona poderás falar con varios membros da tua familia (NPCs) que serán
 os encargados de suministrar misións coas que poderás desbloquear novas pezas, localizacións e conseguir recursos cos cales poderás
@@ -23,7 +23,7 @@ inicial da seguinte xeración.
 Comenzarás ca seguinte xeración con unha peza adicional que che dará ventaxa para avanzar máis
 e mais rápido.
 
-###3.Combate
+### 3.Combate
 
 O combate desenvolverase igual que unha partida de xadréz, en cada turno cada xogador move unha peza e gaña o que primeiro
 mate ao Rei inimigo.
