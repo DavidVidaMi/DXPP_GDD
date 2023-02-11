@@ -6,7 +6,7 @@ Estamos ante o deseño dun novo xogo, que non parte de versións anteriores; pol
 
 2.2. Motores de xogo.
 
-Trátase dun proxecto en 3D. Empregaremos o motor de xogo "Unity", que se axusta perfectamente ás necesidades do proxecto e no que xa temos cumprida experiencia deseñando outros xogos. Pola mesma razón, para o deseño e animación das personaxes empregaremos Maya.
+Trátase dun proxecto en 3D. Empregaremos o motor de xogo "Unity", que se axusta perfectamente ás necesidades do proxecto e no que xa temos cumprida experiencia deseñando outros xogos. Pola mesma razón, para o deseño e animación das personaxes empregaremos Maya ou Blender.
 
 2.3. Referencias a outros xogos.
 
