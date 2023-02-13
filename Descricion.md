@@ -33,4 +33,6 @@ O combate desenvolverase do mesmo xeito que **unha partida de xadréz**, en cada 
 
 <img src="Interfaces/battleInterface.png" alt ="Interfaces interface" style="height:600px;">
 
+A diferencia do xadrez clásico non solo existen as pezas ás que estamos acostumados, se non que hai moitas mais, engadido a esto tamén cabe destacar que o taboleiro non será sempre igual, cambiará de forma tamaño e color según o duelo que se esté a realizar, incluindo tamén casillas especiales nas que non poidas moverte si non podes voar, ou que maten a tua peza si estás máis de un turno nela, por exemplo.
+
 Poderás **escoller a formación que utilizarás en cada combate**, pero sempre terás que ter **obligatoriamente un Rei**.
