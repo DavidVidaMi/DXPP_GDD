@@ -1,15 +1,15 @@
-Ôªø2. Background
+# 2. Background
 
-2.1. Versi√≥ns anteriores
+### 2.1. VersiÛns anteriores
 
-Estamos ante o dese√±o dun novo xogo, que non parte de versi√≥ns anteriores; polo tanto, personaxes, escenarios e c√≥digo ser√°n dese√±ados partindo de cero; non se reutilizar√° c√≥digo.
+Estamos ante o deseÒo dun novo xogo, que non parte de versiÛns anteriores; polo tanto, personaxes, escenarios e cÛdigo ser·n deseÒados partindo de cero; non se reutilizar· cÛdigo.
 
-2.2. Motores de xogo.
+### 2.2. Motores de xogo.
 
-Tr√°tase dun proxecto en 3D. Empregaremos o motor de xogo "Unity", que se axusta perfectamente √°s necesidades do proxecto e no que xa temos cumprida experiencia dese√±ando outros xogos. Pola mesma raz√≥n, para o dese√±o e animaci√≥n das personaxes empregaremos Maya ou Blender.
+Tr·tase dun proxecto en 3D. Empregaremos o motor de xogo "Unity", que se axusta perfectamente ·s necesidades do proxecto e no que xa temos cumprida experiencia deseÒando outros xogos. Pola mesma razÛn, para o deseÒo e animaciÛn das personaxes empregaremos Maya ou Blender.
 
-2.3. Referencias a outros xogos.
+### 2.3. Referencias a outros xogos.
 
-O aspecto visual lembra a xogos de xadrez, xa que o/a xogador/a ter√° ao seu dispor pezas semellantes √°s do xadrez, pero que poden mudar os seus movementos. As√≠ mesmo, dispor√° dun taboleiro de xogo que lembra ao do xadrez, pero pode ter distintos tama√±os e formas, incluso zonas internas sen escaques polas que non se pode pasar (semellante a certas zonas de pantallas do Candy Crash).
+O aspecto visual lembra a xogos de xadrez, xa que o/a xogador/a ter· ao seu dispor pezas semellantes ·s do xadrez, pero que poden mudar os seus movementos. AsÌ mesmo, dispor· dun taboleiro de xogo que lembra ao do xadrez, pero pode ter distintos tamaÒos e formas, incluso zonas internas sen escaques polas que non se pode pasar (semellante a certas zonas de pantallas do Candy Crash).
 
-Por outra banda, a medida que se avanza no xogo, iranse conseguindo recompensas dun xeito parecido ao "Legends of Runeterra".
+Por outra banda, unha das principais mec·nicas do xogo È o seu compoÒente *rogue like*, no cal recibiredes recompensas a medida que gaÒades duelos, dun xeito parecido ao que pasa en *Legends of Runeterra*.
