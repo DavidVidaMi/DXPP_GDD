@@ -1,6 +1,6 @@
 ## Plataformas
 
-**Chess Land** e un xogo que podera xogarse en case todas as plataformas:
+**Chess Land** e un xogo que poderá xogarse en case todas as plataformas:
 -- Android
 -- Windows
 -- Ubuntu
